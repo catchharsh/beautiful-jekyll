@@ -8,8 +8,8 @@ subtitle: Implementation
 **Binary Search**
 
 
-#Here is my way of implementing the Binary search  
-##The pseudo code  
+# Here is my way of implementing the Binary search  
+## The pseudo code  
 >Binary Search Approach  
   
 int lo,hi;  
