@@ -9,15 +9,14 @@ I think a competitive programmer is always a anime lover.
 I enjoy:  
 - Competitive programming   
 - Watching Anime  
-- Cooking
-  
-  Here are my following Competitive Programming profiles:  
+
+>Here are my following Competitive Programming profiles:  
   - [Catchharsh](https://www.codechef.com/users/catchharsh) @ Codechef
   - [Catchharsh](https://codeforces.com/profile/catchharsh) @ Codeforces
   - [Catchharsh](https://uhunt.onlinejudge.org/id/1009529) @ Uhunt Online Judge
   - [Catchharsh](https://www.hackerearth.com/@catchharsh) @ Hackerearth 
   
-  My favorite anime list:
+>My favorite anime list:
   - Steins gate
   - Code Geass
   - Death Note
