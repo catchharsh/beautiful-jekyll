@@ -3,7 +3,6 @@ layout: page
 title: About me
 subtitle: Competitive Programmer cum Anime lover
 ---
-https://www.facebook.com/profile.php?id=100027528065331
 Hi, I'm Harsh Gupta, a sophomore at IIT Patna.  
 I think a competitive programmer is always a anime lover.  
 
@@ -13,10 +12,10 @@ I enjoy:
 - Cooking
   
   Here are my following Competitive Programming profiles:  
-  - [Catchharsh @ Codechef](https://www.codechef.com/users/catchharsh)
-  - [Catchharsh @ Codeforces](https://codeforces.com/profile/catchharsh)
-  - [Catchharsh @ Uhunt Online Judge](https://uhunt.onlinejudge.org/id/1009529)
-  - [Catchharsh @ Hackerearth](https://www.hackerearth.com/@catchharsh)  
+  - [Catchharsh](https://www.codechef.com/users/catchharsh) @ Codechef
+  - [Catchharsh](https://codeforces.com/profile/catchharsh) @ Codeforces
+  - [Catchharsh](https://uhunt.onlinejudge.org/id/1009529) @ Uhunt Online Judge
+  - [Catchharsh](https://www.hackerearth.com/@catchharsh) @ Hackerearth 
   
   My favorite anime list:
   - Steins gate
