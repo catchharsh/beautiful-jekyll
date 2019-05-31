@@ -1,1 +1,41 @@
+---
+layout: page
+title: Blog 
+subtitle: My daily progress
+---
+# My Journey begins in summer vacations
 
+>May 15, 2019  
+ - **SOLVED** [_Vaishu and Friends_](https://www.hackerearth.com/problem/algorithm/vaishu-and-best-friends/)
+ - **SOLVED** [_Close Subsequences_](https://www.hackerearth.com/problem/algorithm/close-subsequences-7fa6344b/).  
+ This one involved interesting Alternating sequences DP.
+ 
+>May 17, 2019
+ - **SOLVED** [_M3TILE SPOJ_]( https://www.spoj.com/problems/M3TILE/)
+ - **SOLVED** [_GNY07H SPOJ_](https://www.spoj.com/problems/GNY07H/).  
+ Both were good traditional tiling problems of DP.
+ 
+ >May 18 and May 19
+  - _Was in Increff Contest at Hackerearth with my teammate **Kunj** solved **7/8** and ranked **34**_
+  - [_Increff Contest_](https://www.hackerearth.com/challenges/test/increff-coderunner-contest-round-1-online/problems/)
+  
+ >May 20, 2019
+  - **SOLVED** [_JILL Rides Again UVA_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=448)
+   - **SOLVED** [_Maximum Sum UVA_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=44)
+   - **SOLVED** [_Garbage Heap UVA_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1696)
+   
+ >May 21, 2019
+  - **SOLVED** [_Torus UVA_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1768). Simple open the array into 4 parts.
+  - **SOLVED** [_AREA UVA_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3102). Sliding window with maximum 2d range sum in DP.
+  - **SOLVED** [_What Goes Up UVA_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=422&mosmsg=Submission+received+with+ID+23374082).  
+  That was really interesting, learnt the LIS in n*log(n) time...quite nice implementation.
+  
+>May 22, 2019
+ - **SOLVED** [_TRAIN SORTING UVA_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2451). LIS and LDS in a combination.
+ - **SOLVED** [Murcia's Skyline UVA](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2890). Classic with _weighted_ LIS and LDS.
+ 
+>Break with CP , learnt a bit of python.. actually was looking for a change.
+ 
+>May 29, 2019
+ - **SOLVED** **9/9** in COPS virtual contest at codeforces. Here's the link:  
+    [_COPS_](https://codeforces.com/group/kBMG2k5WAX/contest/245080)
