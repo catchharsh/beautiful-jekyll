@@ -8,7 +8,7 @@ I think a competitive programmer is always a anime lover.
 
 I enjoy:  
 - Competitive programming   
-- Watching Anime
+- Watching Anime  
 - Cooking
   
   Here are my following Competitive Programming profiles:  
