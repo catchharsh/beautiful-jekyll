@@ -5,7 +5,7 @@ subtitle: My daily progress
 ---
 # My Journey begins in summer vacations
 
->>May 31 & June 1, 2019
+>May 31 & June 1, 2019
  - **SOLVED** [_BUNS_](https://codeforces.com/contest/106/problem/C). Simple DP problem.
  - **SOLVED** [_Fixing Typos_](https://codeforces.com/contest/363/problem/C). Easy greedy problem.
  - **SOLVED** [_Mashmok And ACM_](https://codeforces.com/contest/414/problem/B).
