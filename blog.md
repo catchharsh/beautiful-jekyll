@@ -5,6 +5,13 @@ subtitle: My daily progress
 ---
 # My Journey begins in summer vacations
 
+>>May 31 & June 1, 2019
+ - **SOLVED** [_BUNS_](https://codeforces.com/contest/106/problem/C). Simple DP problem.
+ - **SOLVED** [_Fixing Typos_](https://codeforces.com/contest/363/problem/C). Easy greedy problem.
+ - **SOLVED** [_Mashmok And ACM_](https://codeforces.com/contest/414/problem/B).
+ - **SOLVED** [_Flowers_](https://codeforces.com/contest/474/problem/D)
+ - **SOLVED** [_Xenia and Bit Operations_](https://codeforces.com/contest/339/problem/D). Easy Segment tree, classic one.
+
 >May 29, 2019
  - **SOLVED** **9/9** in COPS virtual contest at codeforces. Here's the link:  
     [_COPS_](https://codeforces.com/group/kBMG2k5WAX/contest/245080)
