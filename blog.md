@@ -5,6 +5,20 @@ subtitle: My daily progress
 ---
 # My Journey begins in summer vacations
 
+>June 4,2019
+ - **SOLVED** [_Geometric Progressions_](https://codeforces.com/contest/567/problem/C)
+ - **SOLVED** [_Petya and Inequations_](https://codeforces.com/contest/111/problem/A)
+ - **SOLVED** [_Chain Reaction_](https://codeforces.com/contest/607/problem/A)
+
+>June 3,2019
+ - **SOLVED** [_Modulo Sum_](https://codeforces.com/contest/577/problem/B)
+ - _Participated in Codeforces round #563 ....rating 1286 -> 1299_
+
+>June 2,2019
+ - **SOLVED** [_Mysterious present_](https://codeforces.com/contest/4/problem/D)
+ - **SOLVED** [_Dirty deed done dirt cheap_](https://codeforces.com/contest/1148/problem/D)
+ - _Participated in Codeforces Global round 3...rating 1242 -> 1286_
+
 >May 31 & June 1, 2019
  - **SOLVED** [_BUNS_](https://codeforces.com/contest/106/problem/C). Simple DP problem.
  - **SOLVED** [_Fixing Typos_](https://codeforces.com/contest/363/problem/C). Easy greedy problem.
