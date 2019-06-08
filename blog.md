@@ -5,6 +5,20 @@ subtitle: My daily progress
 ---
 # My Journey begins in summer vacations
 
+>June 7,2019
+ - **SOLVED** [_George and Job_](https://codeforces.com/contest/467/problem/C)
+ - **SOLVED** [_Consecutive Subsequence_](https://codeforces.com/contest/977/problem/F)  
+   _Learnt that a lot DP problems can even be optimized by use of smart binary search in it._  
+ - **SOLVED** [_Nauuo and Chess_](https://codeforces.com/contest/1173/problem/B)
+
+>June 5,2019
+ - **SOLVED** [_Working Out_](https://codeforces.com/contest/429/problem/B)
+ - **SOLVED** [_Caesar's Legions_](https://codeforces.com/contest/118/problem/D). Lazy state DP problem.
+ - **SOLVED** [_Ilya and queries_](https://codeforces.com/contest/313/problem/B)
+ - **SOLVED** [_Vacations_](https://codeforces.com/contest/698/problem/A)
+ - **SOLVED** [_Sereja and Suffixes_](https://codeforces.com/contest/368/problem/B)
+ 
+
 >June 4,2019
  - **SOLVED** [_Geometric Progressions_](https://codeforces.com/contest/567/problem/C)
  - **SOLVED** [_Petya and Inequations_](https://codeforces.com/contest/111/problem/A)
