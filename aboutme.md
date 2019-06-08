@@ -22,5 +22,4 @@ I enjoy:
   - Death Note
   - Mirai Nikki  
   
-  You can contact me on my [email](catchharsh99@gmail.com).
   
