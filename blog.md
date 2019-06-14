@@ -5,6 +5,28 @@ subtitle: My daily progress
 ---
 # My Journey begins in summer vacations
 
+>June 12,2019
+ - **SOLVED** [_Unreachable Nodes_](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/dfs-3/)
+ - **SOLVED** [_Learning Graph_](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-learning-graph-3/)
+ - **SOLVED** [_Plus From Picture_](https://codeforces.com/problemset/problem/1182/B)
+
+>June 11,2019
+ - **SOLVED** [_CHEFING_](https://www.codechef.com/JUNE19B/problems/CHFING)
+ - **SOLVED** [_Filling Shapes_](https://codeforces.com/problemset/problem/1182/A)
+
+>June 10,2019
+ - **SOLVED** [_Sum and GCD_](https://www.codechef.com/JUNE19B/problems/SUMAGCD)
+ - **SOLVED** [_KS2_](https://www.codechef.com/JUNE19B/problems/KS2)
+ - **SOLVED** [_RSIGNS_](https://www.codechef.com/JUNE19B/problems/RSIGNS)
+ - **SOLVED** [_PROXYC_](https://www.codechef.com/JUNE19B/problems/PROXYC)
+ - **SOLVED** [_Level Nodes_](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/bfs/)
+ - **SOLVED** [_Permutation_](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/t1-1-6064aa64/)
+ - **SOLVED** [_The Flight Plan_](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/traffic-light-2-ee27ba45/)
+
+>June 9,2019
+ - **SOLVED** [_Good Sequences_](https://codeforces.com/problemset/problem/264/B)
+ - **SOLVED** [_Matrix Sum_](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/dynamic-programming-2-d/)
+
 >June 7,2019
  - **SOLVED** [_George and Job_](https://codeforces.com/contest/467/problem/C)
  - **SOLVED** [_Consecutive Subsequence_](https://codeforces.com/contest/977/problem/F)  
