@@ -5,6 +5,20 @@ subtitle: My daily progress
 ---
 # My Journey begins in summer vacations
 
+>June 17,20119
+ - **SOLVED** [_Split A Number_](https://codeforces.com/problemset/problem/1181/B)
+ - **SOLVED** [_Hongcow builds A Nation_](https://codeforces.com/problemset/problem/744/A)
+ - **SOLVED** _4 questions of_ [_Atcoder beginner Contest 130_](https://atcoder.jp/contests/abc130/tasks)
+ 
+>June 16, 2019
+ - **SOLVED** [_Queen_](https://codeforces.com/problemset/problem/1143/C)
+ - **SOLVED** [_Kefa And Park_](https://codeforces.com/problemset/problem/580/C)
+
+>June 15, 2019
+ - **SOLVED** [_Monk and GrapH Problem_](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/monk-and-graph-problem/)
+ - **SOLVED** [_Beautiful graph_](https://codeforces.com/problemset/problem/1093/D)
+ - **SOLVED** [_Graph Without Long Indirected Edges_](https://codeforces.com/problemset/problem/1144/F)
+
 >June 12,2019
  - **SOLVED** [_Unreachable Nodes_](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/dfs-3/)
  - **SOLVED** [_Learning Graph_](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-learning-graph-3/)
