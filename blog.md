@@ -5,7 +5,33 @@ subtitle: My daily progress
 ---
 # My Journey begins in summer vacations
 
->June 17,20119
+>June 20, 2019
+ - **SOLVED** [_Shortest Path Algorithm_](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/shortest-path-problem/). It was basic problem.
+ - **SOLVED** [_Mice and Maze_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3553)
+ - **SOLVED** [_Sending Email_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1927)
+ - **SOLVED** [_A. Ropewalkers_](https://codeforces.com/problemset/problem/1185/A)
+ - **SOLVED** [_B. Email from Polycarp_](https://codeforces.com/problemset/problem/1185/B)
+ - **SOLVED** [_C1.  Exam in BerSU(easy)_](https://codeforces.com/problemset/problem/1185/C1)  
+ These were easy problems. Just was practicing writing Dijkstra(I personally don't like it's name, hard to pronounce and write.)
+
+>June 19, 2019
+ - **SOLVED** [_Bicoloring UVA_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=945) . It was an easy problem.
+ - **SOLVED** [_Place the Guards UVA_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2021) . It was an easy Bipartite graph checking question.
+ - **SOLVED** [_Claw Decomposition UVA_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2391) . It was an easy problem.
+ - **SOLVED** [_Poland And Forest_](https://codeforces.com/problemset/problem/755/C) .
+ - **SOLVED** [_Roads And Libraries_](https://www.hackerrank.com/challenges/torque-and-development/problem).Easy Graph + Greedy
+ - **SOLVED** [_Dijkstra ?_](https://codeforces.com/problemset/problem/20/C). Easy question on Dijkstra Algo.
+
+>June 18, 2019
+ - **SOLVED** [_Exact Change UVA_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2512). I actually liked its DP formulation, it was like DP knapsack minimum coin change problem.  
+   Make sure to make DP from larger end to smaller one to avoid repetiotion of using a coin  
+   And instead of subtracting coin values, add coin values to largest sum possible from bigger end.
+ - **SOLVED** [_Sticker Collector Robot UVA_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2931) . Simple Graph traversal.
+ - **SOLVED** [_Knight In A War Grid UVA_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3057) . Again a simple graph traversal.
+ - **SOLVED** [_Forwarding E - mails UVA_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3873) . I liked this one a lot. DP + Graphs. Dfs on a a directed graph .  
+ Make sure to memoize the solution at each stage or it will result in TLE !!.
+ 
+>June 17, 2019
  - **SOLVED** [_Split A Number_](https://codeforces.com/problemset/problem/1181/B)
  - **SOLVED** [_Hongcow builds A Nation_](https://codeforces.com/problemset/problem/744/A)
  - **SOLVED** _4 questions of_ [_Atcoder beginner Contest 130_](https://atcoder.jp/contests/abc130/tasks)
@@ -19,16 +45,16 @@ subtitle: My daily progress
  - **SOLVED** [_Beautiful graph_](https://codeforces.com/problemset/problem/1093/D)
  - **SOLVED** [_Graph Without Long Indirected Edges_](https://codeforces.com/problemset/problem/1144/F)
 
->June 12,2019
+>June 12, 2019
  - **SOLVED** [_Unreachable Nodes_](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/dfs-3/)
  - **SOLVED** [_Learning Graph_](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-learning-graph-3/)
  - **SOLVED** [_Plus From Picture_](https://codeforces.com/problemset/problem/1182/B)
 
->June 11,2019
+>June 11, 2019
  - **SOLVED** [_CHEFING_](https://www.codechef.com/JUNE19B/problems/CHFING)
  - **SOLVED** [_Filling Shapes_](https://codeforces.com/problemset/problem/1182/A)
 
->June 10,2019
+>June 10, 2019
  - **SOLVED** [_Sum and GCD_](https://www.codechef.com/JUNE19B/problems/SUMAGCD)
  - **SOLVED** [_KS2_](https://www.codechef.com/JUNE19B/problems/KS2)
  - **SOLVED** [_RSIGNS_](https://www.codechef.com/JUNE19B/problems/RSIGNS)
@@ -37,11 +63,11 @@ subtitle: My daily progress
  - **SOLVED** [_Permutation_](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/t1-1-6064aa64/)
  - **SOLVED** [_The Flight Plan_](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/traffic-light-2-ee27ba45/)
 
->June 9,2019
+>June 9, 2019
  - **SOLVED** [_Good Sequences_](https://codeforces.com/problemset/problem/264/B)
  - **SOLVED** [_Matrix Sum_](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/dynamic-programming-2-d/)
 
->June 7,2019
+>June 7, 2019
  - **SOLVED** [_George and Job_](https://codeforces.com/contest/467/problem/C)
  - **SOLVED** [_Consecutive Subsequence_](https://codeforces.com/contest/977/problem/F)  
    _Learnt that a lot DP problems can even be optimized by use of smart binary search in it._  
@@ -55,16 +81,16 @@ subtitle: My daily progress
  - **SOLVED** [_Sereja and Suffixes_](https://codeforces.com/contest/368/problem/B)
  
 
->June 4,2019
+>June 4, 2019
  - **SOLVED** [_Geometric Progressions_](https://codeforces.com/contest/567/problem/C)
  - **SOLVED** [_Petya and Inequations_](https://codeforces.com/contest/111/problem/A)
  - **SOLVED** [_Chain Reaction_](https://codeforces.com/contest/607/problem/A)
 
->June 3,2019
+>June 3, 2019
  - **SOLVED** [_Modulo Sum_](https://codeforces.com/contest/577/problem/B)
  - _Participated in Codeforces round #563 ....rating 1286 -> 1299_
 
->June 2,2019
+>June 2, 2019
  - **SOLVED** [_Mysterious present_](https://codeforces.com/contest/4/problem/D)
  - **SOLVED** [_Dirty deed done dirt cheap_](https://codeforces.com/contest/1148/problem/D)
  - _Participated in Codeforces Global round 3...rating 1242 -> 1286_
