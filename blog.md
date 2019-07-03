@@ -5,6 +5,31 @@ subtitle: My daily progress
 ---
 # My Journey begins in summer vacations
 
+>June 28 to July 2, 2019
+ - _Was Just solving one or two qstns, gotta a little bit tired :(  But started again on 3 July, 2019._
+
+>June 27, 2019
+ - **SOLVED** [_Subsequences(Easy Version)_](https://codeforces.com/problemset/problem/1183/E)
+ - **SOLVED** [_Subsequences(Hard Version)_](https://codeforces.com/problemset/problem/1183/H)
+ - **SOLVED** [_Vuss the Cossack and Contest_](https://codeforces.com/problemset/problem/1186/A)
+ - **SOLVED** [_Vuss the Cossack and Strings_](https://codeforces.com/problemset/problem/1186/C)
+ - **SOLVED** [_Vuss the Cossack and Numbers_](https://codeforces.com/problemset/problem/1186/D)
+
+>June 26, 2019
+ - **SOLVED** _4 qstns in Codeforces Div.3. Rank 611. **+139** :)_
+
+>June 25, 2019
+ - **SOLVED** [_Alex And Rhombus_](https://codeforces.com/problemset/problem/1180/A)
+ - **SOLVED** [_Nick and array_](https://codeforces.com/problemset/problem/1180/B)
+ - **SOLVED** [_Spotlights_](https://codeforces.com/problemset/problem/729/B)
+ - **SOLVED** [_Circular RMQ_](https://codeforces.com/problemset/problem/52/C). That was interesting in segment trees circular.
+ 
+>June 21 to June 24, 2019
+ - **SOLVED**[_Lift Hopping_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1742). It was an interseting qstn on implementing Djikstra , this qstn inlvolves rather graph making skills  
+ First you ccan make each floor assessible differently by elevators by making floor counting from 1-500.  
+ Then run simply djikstra, on graph, it would be easier, check out some corner cases :)
+ - _Was Busy in **Code Gladiators Indian Finale, Mumbai**. Ranked 99 out of 500 Indian Finalists there and goodies were just amazing._
+
 >June 20, 2019
  - **SOLVED** [_Shortest Path Algorithm_](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/shortest-path-problem/). It was basic problem.
  - **SOLVED** [_Mice and Maze_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3553)
