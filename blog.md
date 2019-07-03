@@ -28,7 +28,7 @@ subtitle: My daily progress
  - **SOLVED**[_Lift Hopping_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1742). It was an interseting qstn on implementing Djikstra , this qstn inlvolves rather graph making skills  
  First you ccan make each floor assessible differently by elevators by making floor counting from 1-500.  
  Then run simply djikstra, on graph, it would be easier, check out some corner cases :)
- - _Was Busy in **Code Gladiators Indian Finale, Mumbai**. Ranked 99 out of 500 Indian Finalists there and goodies were just amazing._
+ > _Was Busy in **Code Gladiators Indian Finale, Mumbai**. Ranked **99 out of some 500** Indian Finalists there and goodies were             just amazing. Made new **Coding Geeks** as friends there, **Sandhya Saravanan (sandy999)** and **Mahesh Patidar** . My first Indian Finals , was a good experience :)_
 
 >June 20, 2019
  - **SOLVED** [_Shortest Path Algorithm_](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/shortest-path-problem/). It was basic problem.
