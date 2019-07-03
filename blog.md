@@ -25,8 +25,8 @@ subtitle: My daily progress
  - **SOLVED** [_Circular RMQ_](https://codeforces.com/problemset/problem/52/C). That was interesting in segment trees circular.
  
 >June 21 to June 24, 2019
- - **SOLVED**[_Lift Hopping_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1742). It was an interseting qstn on implementing Djikstra , this qstn inlvolves rather graph making skills  
- First you ccan make each floor assessible differently by elevators by making floor counting from 1-500.  
+ - **SOLVED** [_Lift Hopping_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1742). It was an interseting qstn on implementing Djikstra , this qstn inlvolves rather graph making skills  
+ First you can make each floor assessible differently by elevators by making floor counting from 1-500.  
  Then run simply djikstra, on graph, it would be easier, check out some corner cases :)
  
 > _Was Busy in **Code Gladiators Indian Finale, Mumbai**. Ranked **99 out of some 500** Indian Finalists there and goodies were             just amazing. Made new **Coding Geeks** as friends there, **Sandhya Saravanan (sandy999)** and **Mahesh Patidar** . My first Indian Finals , was a good experience :)_
