@@ -6,53 +6,46 @@ subtitle: My daily progress
 # My Journey begins in summer vacations
 
 >August 18, 2019  
-
- -**SOLVED** _3 questions on Codeforces Round Div.2 ---> Rating Change 1565 -> 1595_  
- -[**SOLVED**](https://codeforces.com/contest/1206/submission/59002909) [_Choose Two Numbers_](https://codeforces.com/contest/1206/problem/A)  
- -[**SOLVED**](https://codeforces.com/contest/1206/submission/59012601) [_Make Product Equal One_](https://codeforces.com/contest/1206/problem/B)  
- -[**SOLVED**](https://codeforces.com/contest/1206/submission/59023820) [_Almost Equal_](https://codeforces.com/contest/1206/submission/59023820)  
+ - **SOLVED** _3 questions on Codeforces Round Div.2 ---> Rating Change 1565 -> 1595_  
+ - [**SOLVED**](https://codeforces.com/contest/1206/submission/59002909) [_Choose Two Numbers_](https://codeforces.com/contest/1206/problem/A)  
+ - [**SOLVED**](https://codeforces.com/contest/1206/submission/59012601) [_Make Product Equal One_](https://codeforces.com/contest/1206/problem/B)  
+ - [**SOLVED**](https://codeforces.com/contest/1206/submission/59023820) [_Almost Equal_](https://codeforces.com/contest/1206/submission/59023820)  
 
 >August 13, 2019 
-
- -**SOLVED** _5 questions on Codeforces Round Div. 3 ----> Rating Change 1476 -> 1565_  
- -[**SOLVED**](https://codeforces.com/contest/1203/submission/58719291) [_A circle of students_](https://codeforces.com/contest/1203/problem/A)  
- -[**SOLVED**](https://codeforces.com/contest/1203/submission/58746388) [_Remove The substring_](https://codeforces.com/contest/1203/problem/D1)  
- -[**SOLVED**](https://codeforces.com/contest/1203/submission/58738703) [_Boxers_](https://codeforces.com/contest/1203/problem/E)  
- -[**SOLVED**](https://codeforces.com/contest/1203/submission/58729845) [_Equal Rectangles_](https://codeforces.com/contest/1203/problem/B)  
- -[**SOLVED**](https://codeforces.com/contest/1203/submission/58721989) [_Common Divisors_](https://codeforces.com/contest/1203/problem/C)  
+ - **SOLVED** _5 questions on Codeforces Round Div. 3 ----> Rating Change 1476 -> 1565_  
+ - [**SOLVED**](https://codeforces.com/contest/1203/submission/58719291) [_A circle of students_](https://codeforces.com/contest/1203/problem/A)  
+ - [**SOLVED**](https://codeforces.com/contest/1203/submission/58746388) [_Remove The substring_](https://codeforces.com/contest/1203/problem/D1)  
+ - [**SOLVED**](https://codeforces.com/contest/1203/submission/58738703) [_Boxers_](https://codeforces.com/contest/1203/problem/E)  
+ - [**SOLVED**](https://codeforces.com/contest/1203/submission/58729845) [_Equal Rectangles_](https://codeforces.com/contest/1203/problem/B)  
+ - [**SOLVED**](https://codeforces.com/contest/1203/submission/58721989) [_Common Divisors_](https://codeforces.com/contest/1203/problem/C)  
  
  >August 11, 2019  
- 
-  -**SOLVED** _3 questions on Codeforces Round 578 DIv. 2 ----> Rating Change 1379 -> 1476 **SPECIALIST***_  
-  -[**SOLVED**](https://codeforces.com/contest/1200/submission/58601483) [_Round Corridor_]()https://codeforces.com/contest/1200/problem/C)  
-  -[**SOLVED**](https://codeforces.com/contest/1200/submission/58584353) [_Block Adventure_](https://codeforces.com/contest/1200/problem/B)  
-  -[**SOLVED**](https://codeforces.com/contest/1200/submission/58577822) [_Hotelier_](https://codeforces.com/contest/1200/problem/A)  
+  - **SOLVED** _3 questions on Codeforces Round 578 DIv. 2 ----> Rating Change 1379 -> 1476 **SPECIALIST***_  
+  - [**SOLVED**](https://codeforces.com/contest/1200/submission/58601483) [_Round Corridor_]()https://codeforces.com/contest/1200/problem/C)  
+  - [**SOLVED**](https://codeforces.com/contest/1200/submission/58584353) [_Block Adventure_](https://codeforces.com/contest/1200/problem/B)  
+  - [**SOLVED**](https://codeforces.com/contest/1200/submission/58577822) [_Hotelier_](https://codeforces.com/contest/1200/problem/A)  
 
 >August 4, 2019  
-
- -[**SOLVED**](https://codeforces.com/contest/1201/submission/58306236) [_Zero array_](https://codeforces.com/contest/1201/problem/B)  
- -[**SOLVED**](https://codeforces.com/contest/892/submission/58348366) [_Pride_](https://codeforces.com/contest/892/problem/C)  
- -[**SOLVED**](https://codeforces.com/contest/888/submission/58349724) [_Almost Identity Permutations_](https://codeforces.com/contest/888/submission/58349724)  
+ - [**SOLVED**](https://codeforces.com/contest/1201/submission/58306236) [_Zero array_](https://codeforces.com/contest/1201/problem/B)  
+ - [**SOLVED**](https://codeforces.com/contest/892/submission/58348366) [_Pride_](https://codeforces.com/contest/892/problem/C)  
+ - [**SOLVED**](https://codeforces.com/contest/888/submission/58349724) [_Almost Identity Permutations_](https://codeforces.com/contest/888/submission/58349724)  
 
 >July 24, 2019  
-
- -**SOLVED** _3 questions Codeforces Round Div.3 575 ----> Rating Change 1310 -> 1342 :)_  
- -[**SOLVED**](https://codeforces.com/contest/1196/submission/57650568) [_Three Piles Of Candies_](https://codeforces.com/contest/1196/problem/A)  
- -[**SOLVED**](https://codeforces.com/contest/1196/submission/57663052) [_Odd Sum Segments_](https://codeforces.com/contest/1196/problem/B)  
- -[**SOLVED**](https://codeforces.com/contest/1196/problem/B) [_RGB Substring_](https://codeforces.com/contest/1196/problem/D1)  
+ - **SOLVED** _3 questions Codeforces Round Div.3 575 ----> Rating Change 1310 -> 1342 :)_  
+ - [**SOLVED**](https://codeforces.com/contest/1196/submission/57650568) [_Three Piles Of Candies_](https://codeforces.com/contest/1196/problem/A)  
+ - [**SOLVED**](https://codeforces.com/contest/1196/submission/57663052) [_Odd Sum Segments_](https://codeforces.com/contest/1196/problem/B)  
+ - [**SOLVED**](https://codeforces.com/contest/1196/problem/B) [_RGB Substring_](https://codeforces.com/contest/1196/problem/D1)  
 
 >July 14, 2019  
-
- -**SOLVED** _3 questions in Edu. Codeforces div.2 round 68.---> Rating Change 1312 -> 1346 :)_  
- -[**SOLVED**](https://codeforces.com/contest/1194/submission/57025138) [_Remove A Progression_](https://codeforces.com/contest/1194/problem/A)  
- -[**SOLVED**](https://codeforces.com/contest/1194/submission/57044478) [_Yet Another Crosses Problem_](https://codeforces.com/contest/1194/problem/B)  
- -[**SOLVED**](https://codeforces.com/contest/1194/submission/57038868) [_From S to T_](https://codeforces.com/contest/1194/problem/C)  
+ - **SOLVED** _3 questions in Edu. Codeforces div.2 round 68.---> Rating Change 1312 -> 1346 :)_  
+ - [**SOLVED**](https://codeforces.com/contest/1194/submission/57025138) [_Remove A Progression_](https://codeforces.com/contest/1194/problem/A)  
+ - [**SOLVED**](https://codeforces.com/contest/1194/submission/57044478) [_Yet Another Crosses Problem_](https://codeforces.com/contest/1194/problem/B)  
+ - [**SOLVED**](https://codeforces.com/contest/1194/submission/57038868) [_From S to T_](https://codeforces.com/contest/1194/problem/C)  
 
 >July 3, 2019  
-
- -[**SOLVED**](https://codeforces.com/contest/1032/submission/56446750) [_Playing Piano_](https://codeforces.com/contest/1032/problem/C)  
- -[**SOLVED**](https://codeforces.com/contest/915/submission/56461031) [_Permute digits_](https://codeforces.com/contest/915/problem/C)  
- -[**SOLVED**](https://codeforces.com/contest/553/submission/56480406) [_Kyoyua And The Colored Balls](https://codeforces.com/contest/553/problem/A)  
+ - [**SOLVED**](https://codeforces.com/contest/1032/submission/56446750) [_Playing Piano_](https://codeforces.com/contest/1032/problem/C)  
+ - [**SOLVED**](https://codeforces.com/contest/915/submission/56461031) [_Permute digits_](https://codeforces.com/contest/915/problem/C)  
+ - [**SOLVED**](https://codeforces.com/contest/553/submission/56480406) [_Kyoyua And The Colored Balls](https://codeforces.com/contest/553/problem/A)  
 
 >_Focussed now more on practice, and starting giving live contests !!_
 
