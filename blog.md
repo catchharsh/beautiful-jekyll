@@ -9,20 +9,20 @@ subtitle: My daily progress
  - _Was Just solving one or two qstns, gotta a little bit tired :(  But started again on 3 July, 2019._
 
 >June 27, 2019
- - **SOLVED** [_Subsequences(Easy Version)_](https://codeforces.com/problemset/problem/1183/E)
- - **SOLVED** [_Subsequences(Hard Version)_](https://codeforces.com/problemset/problem/1183/H)
- - **SOLVED** [_Vuss the Cossack and Contest_](https://codeforces.com/problemset/problem/1186/A)
- - **SOLVED** [_Vuss the Cossack and Strings_](https://codeforces.com/problemset/problem/1186/C)
- - **SOLVED** [_Vuss the Cossack and Numbers_](https://codeforces.com/problemset/problem/1186/D)
+ - [**SOLVED**](https://codeforces.com/contest/1183/submission/56176302) [_Subsequences(Easy Version)_](https://codeforces.com/problemset/problem/1183/E)
+ - [**SOLVED**](https://codeforces.com/contest/1183/submission/56176334 ) [_Subsequences(Hard Version)_](https://codeforces.com/problemset/problem/1183/H)
+ - [**SOLVED**](https://codeforces.com/contest/1186/submission/56193393) [_Vuss the Cossack and Contest_](https://codeforces.com/problemset/problem/1186/A)
+ - [**SOLVED**](https://codeforces.com/contest/1186/submission/56237197) [_Vuss the Cossack and Strings_](https://codeforces.com/problemset/problem/1186/C)
+ - [**SOLVED**](https://codeforces.com/contest/1186/submission/56215212) [_Vuss the Cossack and Numbers_](https://codeforces.com/problemset/problem/1186/D)
 
 >June 26, 2019
  - **SOLVED** _4 qstns in Codeforces Div.3. Rank 611. **+139** :)_
 
 >June 25, 2019
- - **SOLVED** [_Alex And Rhombus_](https://codeforces.com/problemset/problem/1180/A)
- - **SOLVED** [_Nick and array_](https://codeforces.com/problemset/problem/1180/B)
- - **SOLVED** [_Spotlights_](https://codeforces.com/problemset/problem/729/B)
- - **SOLVED** [_Circular RMQ_](https://codeforces.com/problemset/problem/52/C). That was interesting in segment trees circular.
+ - [**SOLVED**](https://codeforces.com/contest/1180/submission/56026710) [_Alex And Rhombus_](https://codeforces.com/problemset/problem/1180/A)
+ - [**SOLVED**](https://codeforces.com/contest/1180/submission/56030668) [_Nick and array_](https://codeforces.com/problemset/problem/1180/B)
+ - [**SOLVED**](https://codeforces.com/contest/729/submission/56072621) [_Spotlights_](https://codeforces.com/problemset/problem/729/B)
+ - [**SOLVED**](https://codeforces.com/contest/52/submission/56061027) [_Circular RMQ_](https://codeforces.com/problemset/problem/52/C). That was interesting in segment trees circular.
  
 >June 21 to June 24, 2019
  - **SOLVED** [_Lift Hopping_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1742). It was an interseting qstn on implementing Djikstra , this qstn inlvolves rather graph making skills  
@@ -35,9 +35,9 @@ subtitle: My daily progress
  - **SOLVED** [_Shortest Path Algorithm_](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/shortest-path-problem/). It was basic problem.
  - **SOLVED** [_Mice and Maze_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3553)
  - **SOLVED** [_Sending Email_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1927)
- - **SOLVED** [_A. Ropewalkers_](https://codeforces.com/problemset/problem/1185/A)
- - **SOLVED** [_B. Email from Polycarp_](https://codeforces.com/problemset/problem/1185/B)
- - **SOLVED** [_C1.  Exam in BerSU(easy)_](https://codeforces.com/problemset/problem/1185/C1)  
+ - [**SOLVED**](https://codeforces.com/contest/1185/submission/55828958) [_A. Ropewalkers_](https://codeforces.com/problemset/problem/1185/A)
+ - [**SOLVED**](https://codeforces.com/contest/1185/submission/55829403) [_B. Email from Polycarp_](https://codeforces.com/problemset/problem/1185/B)
+ - [**SOLVED**](https://codeforces.com/contest/1185/submission/55830004) [_C1.  Exam in BerSU(easy)_](https://codeforces.com/problemset/problem/1185/C1)  
  These were easy problems. Just was practicing writing Dijkstra(I personally don't like it's name, hard to pronounce and write.)
 
 >June 19, 2019
@@ -46,7 +46,7 @@ subtitle: My daily progress
  - **SOLVED** [_Claw Decomposition UVA_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2391) . It was an easy problem.
  - **SOLVED** [_Poland And Forest_](https://codeforces.com/problemset/problem/755/C) .
  - **SOLVED** [_Roads And Libraries_](https://www.hackerrank.com/challenges/torque-and-development/problem).Easy Graph + Greedy
- - **SOLVED** [_Dijkstra ?_](https://codeforces.com/problemset/problem/20/C). Easy question on Dijkstra Algo.
+ - [**SOLVED**](https://codeforces.com/contest/20/submission/55800712) [_Dijkstra ?_](https://codeforces.com/problemset/problem/20/C). Easy question on Dijkstra Algo.
 
 >June 18, 2019
  - **SOLVED** [_Exact Change UVA_](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2512). I actually liked its DP formulation, it was like DP knapsack minimum coin change problem.  
@@ -58,75 +58,75 @@ subtitle: My daily progress
  Make sure to memoize the solution at each stage or it will result in TLE !!.
  
 >June 17, 2019
- - **SOLVED** [_Split A Number_](https://codeforces.com/problemset/problem/1181/B)
- - **SOLVED** [_Hongcow builds A Nation_](https://codeforces.com/problemset/problem/744/A)
+ - [**SOLVED**](https://codeforces.com/contest/1181/submission/55677442) [_Split A Number_](https://codeforces.com/problemset/problem/1181/B)
+ - [**SOLVED**](https://codeforces.com/contest/744/submission/55682015) [_Hongcow builds A Nation_](https://codeforces.com/problemset/problem/744/A)
  - **SOLVED** _4 questions of_ [_Atcoder beginner Contest 130_](https://atcoder.jp/contests/abc130/tasks)
  
 >June 16, 2019
- - **SOLVED** [_Queen_](https://codeforces.com/problemset/problem/1143/C)
- - **SOLVED** [_Kefa And Park_](https://codeforces.com/problemset/problem/580/C)
+ - [**SOLVED**](https://codeforces.com/contest/1143/submission/55610628) [_Queen_](https://codeforces.com/problemset/problem/1143/C)
+ - [**SOLVED**](https://codeforces.com/contest/580/submission/55652832) [_Kefa And Park_](https://codeforces.com/problemset/problem/580/C)
 
 >June 15, 2019
- - **SOLVED** [_Monk and GrapH Problem_](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/monk-and-graph-problem/)
- - **SOLVED** [_Beautiful graph_](https://codeforces.com/problemset/problem/1093/D)
- - **SOLVED** [_Graph Without Long Indirected Edges_](https://codeforces.com/problemset/problem/1144/F)
+ - **SOLVED** [_Monk and Graph Problem_](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/monk-and-graph-problem/)
+ - [**SOLVED**](https://codeforces.com/contest/1093/submission/55590473) [_Beautiful graph_](https://codeforces.com/problemset/problem/1093/D)
+ - [**SOLVED**](https://codeforces.com/contest/1144/submission/55593963) [_Graph Without Long Indirected Edges_](https://codeforces.com/problemset/problem/1144/F)
 
 >June 12, 2019
  - **SOLVED** [_Unreachable Nodes_](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/dfs-3/)
  - **SOLVED** [_Learning Graph_](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-learning-graph-3/)
- - **SOLVED** [_Plus From Picture_](https://codeforces.com/problemset/problem/1182/B)
+ - [**SOLVED**](https://codeforces.com/contest/1182/submission/55483505) [_Plus From Picture_](https://codeforces.com/problemset/problem/1182/B)
 
 >June 11, 2019
- - **SOLVED** [_CHEFING_](https://www.codechef.com/JUNE19B/problems/CHFING)
- - **SOLVED** [_Filling Shapes_](https://codeforces.com/problemset/problem/1182/A)
+ - [**SOLVED**](https://www.codechef.com/viewsolution/24676210) [_CHEFING_](https://www.codechef.com/JUNE19B/problems/CHFING)
+ - [**SOLVED**](https://codeforces.com/contest/1182/submission/55440819) [_Filling Shapes_](https://codeforces.com/problemset/problem/1182/A)
 
 >June 10, 2019
- - **SOLVED** [_Sum and GCD_](https://www.codechef.com/JUNE19B/problems/SUMAGCD)
- - **SOLVED** [_KS2_](https://www.codechef.com/JUNE19B/problems/KS2)
- - **SOLVED** [_RSIGNS_](https://www.codechef.com/JUNE19B/problems/RSIGNS)
- - **SOLVED** [_PROXYC_](https://www.codechef.com/JUNE19B/problems/PROXYC)
- - **SOLVED** [_Level Nodes_](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/bfs/)
- - **SOLVED** [_Permutation_](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/t1-1-6064aa64/)
- - **SOLVED** [_The Flight Plan_](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/traffic-light-2-ee27ba45/)
+ - [**SOLVED**](https://www.codechef.com/viewsolution/24608389) [_Sum and GCD_](https://www.codechef.com/JUNE19B/problems/SUMAGCD)
+ - [**SOLVED**](https://www.codechef.com/viewsolution/24608522) [_KS2_](https://www.codechef.com/JUNE19B/problems/KS2)
+ - [**SOLVED**](https://www.codechef.com/viewsolution/24608557) [_RSIGNS_](https://www.codechef.com/JUNE19B/problems/RSIGNS)
+ - [**SOLVED**](https://www.codechef.com/viewsolution/24608969) [_PROXYC_](https://www.codechef.com/JUNE19B/problems/PROXYC)
+ - [**SOLVED**](https://www.hackerearth.com/submission/26922329/) [_Level Nodes_](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/bfs/)
+ - [**SOLVED**](https://www.hackerearth.com/submission/26923191/) [_Permutation_](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/t1-1-6064aa64/)
+ - [**SOLVED**](https://www.hackerearth.com/submission/26934823/) [_The Flight Plan_](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/traffic-light-2-ee27ba45/)
 
 >June 9, 2019
- - **SOLVED** [_Good Sequences_](https://codeforces.com/problemset/problem/264/B)
- - **SOLVED** [_Matrix Sum_](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/dynamic-programming-2-d/)
+ - [**SOLVED**](https://codeforces.com/contest/264/submission/55319310) [_Good Sequences_](https://codeforces.com/problemset/problem/264/B)
+ - [**SOLVED**](https://www.hackerearth.com/submission/26871385/) [_Matrix Sum_](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/dynamic-programming-2-d/)
 
 >June 7, 2019
- - **SOLVED** [_George and Job_](https://codeforces.com/contest/467/problem/C)
- - **SOLVED** [_Consecutive Subsequence_](https://codeforces.com/contest/977/problem/F)  
+ - [**SOLVED**](https://codeforces.com/contest/467/submission/55227812) [_George and Job_](https://codeforces.com/contest/467/problem/C)
+ - [**SOLVED**](https://codeforces.com/contest/977/submission/55269361) [_Consecutive Subsequence_](https://codeforces.com/contest/977/problem/F)  
    _Learnt that a lot DP problems can even be optimized by use of smart binary search in it._  
- - **SOLVED** [_Nauuo and Chess_](https://codeforces.com/contest/1173/problem/B)
+ - [**SOLVED**](https://codeforces.com/contest/1173/submission/55274847) [_Nauuo and Chess_](https://codeforces.com/contest/1173/problem/B)
 
 >June 5,2019
- - **SOLVED** [_Working Out_](https://codeforces.com/contest/429/problem/B)
- - **SOLVED** [_Caesar's Legions_](https://codeforces.com/contest/118/problem/D). Lazy state DP problem.
- - **SOLVED** [_Ilya and queries_](https://codeforces.com/contest/313/problem/B)
- - **SOLVED** [_Vacations_](https://codeforces.com/contest/698/problem/A)
- - **SOLVED** [_Sereja and Suffixes_](https://codeforces.com/contest/368/problem/B)
+ - [**SOLVED**](https://codeforces.com/contest/429/submission/55101567) [_Working Out_](https://codeforces.com/contest/429/problem/B)
+ - [**SOLVED**](https://codeforces.com/contest/118/submission/55104752) [_Caesar's Legions_](https://codeforces.com/contest/118/problem/D). Lazy state DP problem.
+ - [**SOLVED**](https://codeforces.com/contest/313/submission/55106127) [_Ilya and queries_](https://codeforces.com/contest/313/problem/B)
+ - [**SOLVED**](https://codeforces.com/contest/698/submission/55108664) [_Vacations_](https://codeforces.com/contest/698/problem/A)
+ - [**SOLVED**](https://codeforces.com/contest/368/submission/55106205) [_Sereja and Suffixes_](https://codeforces.com/contest/368/problem/B)
  
 
 >June 4, 2019
- - **SOLVED** [_Geometric Progressions_](https://codeforces.com/contest/567/problem/C)
- - **SOLVED** [_Petya and Inequations_](https://codeforces.com/contest/111/problem/A)
- - **SOLVED** [_Chain Reaction_](https://codeforces.com/contest/607/problem/A)
+ - [**SOLVED**](https://codeforces.com/contest/567/submission/55058402) [_Geometric Progressions_](https://codeforces.com/contest/567/problem/C)
+ - [**SOLVED**](https://codeforces.com/contest/111/submission/55059488) [_Petya and Inequations_](https://codeforces.com/contest/111/problem/A)
+ - [**SOLVED**](https://codeforces.com/contest/607/submission/55092491) [_Chain Reaction_](https://codeforces.com/contest/607/problem/A)
 
 >June 3, 2019
- - **SOLVED** [_Modulo Sum_](https://codeforces.com/contest/577/problem/B)
+ - [**SOLVED**](https://codeforces.com/contest/577/submission/54998202) [_Modulo Sum_](https://codeforces.com/contest/577/problem/B)
  - _Participated in Codeforces round #563 ....rating 1286 -> 1299_
 
 >June 2, 2019
- - **SOLVED** [_Mysterious present_](https://codeforces.com/contest/4/problem/D)
- - **SOLVED** [_Dirty deed done dirt cheap_](https://codeforces.com/contest/1148/problem/D)
+ - [**SOLVED**](https://codeforces.com/contest/4/submission/54964535) [_Mysterious present_](https://codeforces.com/contest/4/problem/D)
+ - [**SOLVED**](https://codeforces.com/contest/1148/submission/54951111) [_Dirty deed done dirt cheap_](https://codeforces.com/contest/1148/problem/D)
  - _Participated in Codeforces Global round 3...rating 1242 -> 1286_
 
 >May 31 & June 1, 2019
- - **SOLVED** [_BUNS_](https://codeforces.com/contest/106/problem/C). Simple DP problem.
- - **SOLVED** [_Fixing Typos_](https://codeforces.com/contest/363/problem/C). Easy greedy problem.
- - **SOLVED** [_Mashmok And ACM_](https://codeforces.com/contest/414/problem/B).
- - **SOLVED** [_Flowers_](https://codeforces.com/contest/474/problem/D)
- - **SOLVED** [_Xenia and Bit Operations_](https://codeforces.com/contest/339/problem/D). Easy Segment tree, classic one.
+ - [**SOLVED**](https://codeforces.com/contest/106/submission/54882921) [_BUNS_](https://codeforces.com/contest/106/problem/C). Simple DP problem.
+ - [**SOLVED**](http://www.codeforces.com/contest/363/submission/54889954) [_Fixing Typos_](https://codeforces.com/contest/363/problem/C). Easy greedy problem.
+ - [**SOLVED**](https://codeforces.com/contest/414/submission/54896427) [_Mashmok And ACM_](https://codeforces.com/contest/414/problem/B).
+ - [**SOLVED**](https://codeforces.com/contest/474/submission/54892032) [_Flowers_](https://codeforces.com/contest/474/problem/D)
+ - [**SOLVED**](https://codeforces.com/contest/339/submission/54898268) [_Xenia and Bit Operations_](https://codeforces.com/contest/339/problem/D). Easy Segment tree, classic one.
 
 >May 29, 2019
  - **SOLVED** **9/9** in COPS virtual contest at codeforces. Here's the link:  
@@ -160,7 +160,7 @@ subtitle: My daily progress
  Both were good traditional tiling problems of DP.
 
 >May 15, 2019  
- - **SOLVED** [_Vaishu and Friends_](https://www.hackerearth.com/problem/algorithm/vaishu-and-best-friends/)
+ - [**SOLVED**](https://www.hackerearth.com/submission/26031530/) [_Vaishu and Friends_](https://www.hackerearth.com/problem/algorithm/vaishu-and-best-friends/)
  - **SOLVED** [_Close Subsequences_](https://www.hackerearth.com/problem/algorithm/close-subsequences-7fa6344b/).  
  This one involved interesting Alternating sequences DP.
   
